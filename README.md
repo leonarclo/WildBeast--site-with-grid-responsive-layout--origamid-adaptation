@@ -1,6 +1,12 @@
-<div align="center">
+<h1 align="center">
   <img src="/img/.github/wildbeast-logo.png" alt="WildBeast Logo">
-</div>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/leonarclo/wildbeast">
+  <img src="https://img.shields.io/github/last-commit/leonarclo/wildbeast">
+  <img src="https://img.shields.io/github/license/leonarclo/wildbeast">
+<p/>
 
 _<p align="center">* Status: Concluído ✅</p>_
 
@@ -8,7 +14,7 @@ _<p align="center">* Status: Concluído ✅</p>_
  <a href="#sobre-o-projeto">Sobre</a> •
  <a href="#demonstração">Demonstração</a> • 
  <a href="#tecnologias-utilizadas">Tecnologias</a> • 
- <a href="#licença">Licença</a> • 
+ <a href="#licença">Licença</a>
 </p>
 
 ---
