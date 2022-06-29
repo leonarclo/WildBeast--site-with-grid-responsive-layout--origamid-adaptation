@@ -60,4 +60,4 @@ $ npx liver-server
 ---
 
 ## 📝 Licença
-Este projeto está licenciado sob a licença MIT. Para mais detalhes, acesse o arquivo [LICENSE.md](https://google.com).
+Este projeto está licenciado sob a licença MIT. Para mais detalhes, acesse o arquivo [LICENSE.md](https://github.com/leonarclo/wildbeast/blob/master/LICENSE).
