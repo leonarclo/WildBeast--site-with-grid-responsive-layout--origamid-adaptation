@@ -34,7 +34,7 @@ O desenvolvimento deste site ocorreu durante o curso de CSS Grid layout da [Orig
 #### Versão Mobile
 <p float="left">
   <img src="/img/.github/wildbeast-demo-mobile.png" alt="Demonstração do layout mobile" width="300" hspace="30">
-    <img src="/img/.github/wildbeast-demo-mobile2.png" alt="Demonstração do layout mobile 2" width="300">
+    <img src="/img/.github/wildbeast-demo-mobile2.png" alt="Demonstração do layout mobile 2" width="295">
 </p>
 
 ---
